@@ -1,0 +1,551 @@
+,Title,Year,Certificate,Runtime,Genre,IMDB,Metascore,Director,Votes,Gross
+0,Incredibles 2,2018.0,P13,118,"Animation, Action, Adventure",7.6,80.0,Brad Bird,313956.0,608.58
+1,The Lion King,2019.0,P13,118,"Animation, Adventure, Drama",6.8,55.0,Jon Favreau,256831.0,543.64
+2,Finding Dory,2016.0,U,97,"Animation, Adventure, Comedy",7.3,77.0,Andrew Stanton,289941.0,486.3
+3,Frozen II,2019.0,P13,103,"Animation, Adventure, Comedy",6.8,64.0,Chris Buck,183519.0,477.37
+4,Shrek 2,2004.0,U,93,"Animation, Adventure, Comedy",7.3,75.0,Andrew Adamson,485150.0,436.47
+5,Toy Story 4,2019.0,U,100,"Animation, Adventure, Comedy",7.7,84.0,Josh Cooley,265617.0,434.04
+6,The Lion King,1994.0,U,88,"Animation, Adventure, Drama",8.5,88.0,Roger Allers,1095322.0,422.78
+7,Toy Story 3,2010.0,U,103,"Animation, Adventure, Comedy",8.3,92.0,Lee Unkrich,862407.0,415.0
+8,Frozen,2013.0,U,102,"Animation, Adventure, Comedy",7.4,75.0,Chris Buck,643425.0,400.74
+9,Finding Nemo,2003.0,U,100,"Animation, Adventure, Comedy",8.2,90.0,Andrew Stanton,1074906.0,380.84
+10,Minions: The Rise of Gru,2022.0,P13,87,"Animation, Adventure, Comedy",6.5,56.0,Kyle Balda,76839.0,369.7
+11,The Secret Life of Pets,2016.0,U,87,"Animation, Adventure, Comedy",6.5,61.0,Chris Renaud,210204.0,368.38
+12,Despicable Me 2,2013.0,U,98,"Animation, Adventure, Comedy",7.3,62.0,Pierre Coffin,413050.0,368.06
+13,Inside Out,2015.0,U,95,"Animation, Adventure, Comedy",8.1,94.0,Pete Docter,745177.0,356.46
+14,Zootopia,2016.0,P13,108,"Animation, Adventure, Comedy",8.0,78.0,Byron Howard,521595.0,341.27
+15,Minions,2015.0,P13,91,"Animation, Adventure, Comedy",6.4,56.0,Kyle Balda,249196.0,336.05
+16,Shrek the Third,2007.0,U,93,"Animation, Adventure, Comedy",6.1,58.0,Chris Miller,320951.0,320.71
+17,Up,2009.0,U,96,"Animation, Adventure, Comedy",8.3,88.0,Pete Docter,1079901.0,293.0
+18,"Monsters, Inc.",2001.0,U,92,"Animation, Adventure, Comedy",8.1,79.0,Pete Docter,940568.0,289.92
+19,The Grinch,2018.0,P13,85,"Animation, Comedy, Family",6.4,51.0,Yarrow Cheney,78779.0,270.62
+20,Sing,2016.0,U,108,"Animation, Comedy, Family",7.1,59.0,Garth Jennings,180800.0,270.4
+21,Monsters University,2013.0,U,104,"Animation, Adventure, Comedy",7.2,65.0,Dan Scanlon,374779.0,268.49
+22,Shrek,2001.0,U,90,"Animation, Adventure, Comedy",7.9,84.0,Andrew Adamson,705294.0,267.67
+23,Despicable Me 3,2017.0,P13,89,"Animation, Adventure, Comedy",6.2,49.0,Kyle Balda,144672.0,264.62
+24,The Incredibles,2004.0,U,115,"Animation, Action, Adventure",8.0,90.0,Brad Bird,770414.0,261.44
+25,The Lego Movie,2014.0,U,100,"Animation, Action, Adventure",7.7,83.0,Phil Lord,374108.0,257.76
+26,Despicable Me,2010.0,U,95,"Animation, Adventure, Comedy",7.6,72.0,Pierre Coffin,564683.0,251.51
+27,Moana,2016.0,P13,107,"Animation, Adventure, Comedy",7.6,81.0,Ron Clements,356186.0,248.76
+28,Toy Story 2,1999.0,U,92,"Animation, Adventure, Comedy",7.9,88.0,John Lasseter,600126.0,245.85
+29,Cars,2006.0,U,117,"Animation, Adventure, Comedy",7.2,73.0,John Lasseter,444195.0,244.08
+30,Shrek Forever After,2010.0,U,95,"Animation, Adventure, Comedy",6.3,58.0,Mike Mitchell,216413.0,238.37
+31,Brave,2012.0,P13,93,"Animation, Adventure, Comedy",7.1,69.0,Mark Andrews,426878.0,237.28
+32,WALL·E,2008.0,U,98,"Animation, Adventure, Family",8.4,95.0,Andrew Stanton,1153547.0,223.81
+33,Big Hero 6,2014.0,P13,102,"Animation, Action, Adventure",7.8,74.0,Don Hall,481270.0,222.53
+34,Alvin and the Chipmunks: The Squeakquel,2009.0,U,88,"Animation, Adventure, Comedy",4.5,41.0,Betty Thomas,52142.0,219.61
+35,Beauty and the Beast,1991.0,U,84,"Animation, Family, Fantasy",8.0,95.0,Gary Trousdale,467281.0,218.97
+36,How to Train Your Dragon,2010.0,U,98,"Animation, Action, Adventure",8.1,75.0,Dean DeBlois,768325.0,217.58
+37,Aladdin,1992.0,U,90,"Animation, Adventure, Comedy",8.0,86.0,Ron Clements,442688.0,217.35
+38,Alvin and the Chipmunks,2007.0,U,92,"Animation, Adventure, Comedy",5.2,39.0,Tim Hill,90847.0,217.33
+39,Madagascar 3: Europe's Most Wanted,2012.0,U,95,"Animation, Adventure, Comedy",6.8,60.0,Eric Darnell,190448.0,216.39
+40,Kung Fu Panda,2008.0,U,92,"Animation, Action, Adventure",7.6,74.0,Mark Osborne,493593.0,215.43
+41,The Lorax,2012.0,U,86,"Animation, Adventure, Comedy",6.4,46.0,Chris Renaud,123159.0,214.03
+42,Coco,2017.0,U,105,"Animation, Adventure, Drama",8.4,81.0,Lee Unkrich,544366.0,209.73
+43,Ratatouille,2007.0,U,111,"Animation, Adventure, Comedy",8.1,96.0,Brad Bird,776953.0,206.45
+44,Ralph Breaks the Internet,2018.0,P13,112,"Animation, Adventure, Comedy",7.0,71.0,Phil Johnston,172485.0,201.09
+45,Tangled,2010.0,U,100,"Animation, Adventure, Comedy",7.7,71.0,Nathan Greno,473498.0,200.82
+46,Monsters vs. Aliens,2009.0,U,94,"Animation, Action, Adventure",6.4,56.0,Rob Letterman,170347.0,198.35
+47,Happy Feet,2006.0,U,108,"Animation, Adventure, Comedy",6.4,77.0,George Miller,193901.0,198.0
+48,Ice Age: Dawn of the Dinosaurs,2009.0,U,94,"Animation, Adventure, Comedy",6.9,50.0,Carlos Saldanha,255263.0,196.57
+49,Ice Age: The Meltdown,2006.0,U,91,"Animation, Adventure, Comedy",6.8,59.0,Carlos Saldanha,288058.0,195.33
+50,Madagascar,2005.0,U,86,"Animation, Adventure, Comedy",6.9,57.0,Eric Darnell,420713.0,193.6
+51,Toy Story,1995.0,U,81,"Animation, Adventure, Comedy",8.3,96.0,John Lasseter,1027726.0,191.8
+52,Cars 2,2011.0,U,106,"Animation, Adventure, Comedy",6.2,57.0,John Lasseter,204159.0,191.45
+53,Spider-Man: Into the Spider-Verse,2018.0,P13,117,"Animation, Action, Adventure",8.4,87.0,Bob Persichetti,611900.0,190.24
+54,Wreck-It Ralph,2012.0,U,101,"Animation, Adventure, Comedy",7.7,72.0,Rich Moore,441123.0,189.42
+55,The Croods,2013.0,P13,98,"Animation, Action, Adventure",7.2,55.0,Kirk DeMicco,224289.0,187.17
+56,Snow White and the Seven Dwarfs,1937.0,U,83,"Animation, Adventure, Family",7.6,96.0,William Cottrell,207602.0,184.93
+57,The Polar Express,2004.0,U,100,"Animation, Adventure, Comedy",6.6,61.0,Robert Zemeckis,224108.0,183.37
+58,The Simpsons Movie,2007.0,P13,87,"Animation, Adventure, Comedy",7.3,80.0,David Silverman,340651.0,183.14
+59,Madagascar: Escape 2 Africa,2008.0,U,89,"Animation, Adventure, Comedy",6.6,61.0,Eric Darnell,238250.0,180.01
+60,Home,2015.0,PG,94,"Animation, Adventure, Comedy",6.5,55.0,Tim Johnson,107795.0,177.4
+61,How to Train Your Dragon 2,2014.0,P13,102,"Animation, Action, Adventure",7.8,77.0,Dean DeBlois,350585.0,177.0
+62,Ice Age,2002.0,U,81,"Animation, Adventure, Comedy",7.5,61.0,Chris Wedge,499799.0,176.39
+63,The Lego Batman Movie,2017.0,U,104,"Animation, Action, Adventure",7.3,75.0,Chris McKay,163539.0,175.75
+64,The Boss Baby,2017.0,U,97,"Animation, Adventure, Comedy",6.3,50.0,Tom McGrath,134903.0,175.0
+65,Tarzan,1999.0,U,88,"Animation, Adventure, Comedy",7.3,79.0,Chris Buck,237264.0,171.09
+66,Hotel Transylvania 2,2015.0,P13,89,"Animation, Adventure, Comedy",6.6,44.0,Genndy Tartakovsky,135601.0,169.7
+67,Puss in Boots: The Last Wish,2022.0,PG,102,"Animation, Adventure, Comedy",7.9,73.0,Joel Crawford,143329.0,168.46
+68,Hotel Transylvania 3: Summer Vacation,2018.0,P13,97,"Animation, Adventure, Comedy",6.3,54.0,Genndy Tartakovsky,80000.0,167.51
+69,Kung Fu Panda 2,2011.0,U,90,"Animation, Action, Adventure",7.2,67.0,Jennifer Yuh Nelson,301657.0,165.25
+70,The SpongeBob Movie: Sponge Out of Water,2015.0,P13,92,"Animation, Adventure, Comedy",6.0,62.0,Paul Tibbitt,58706.0,162.99
+71,A Bug's Life,1998.0,,95,"Animation, Adventure, Comedy",7.2,77.0,John Lasseter,304085.0,162.8
+72,Sing 2,2021.0,PG,110,"Animation, Adventure, Comedy",7.4,49.0,Garth Jennings,77162.0,162.79
+73,Ice Age: Continental Drift,2012.0,U,88,"Animation, Adventure, Comedy",6.5,49.0,Steve Martino,217477.0,161.32
+74,Shark Tale,2004.0,U,90,"Animation, Adventure, Comedy",6.0,48.0,Bibo Bergeron,191966.0,160.86
+75,How to Train Your Dragon: The Hidden World,2019.0,P13,104,"Animation, Action, Adventure",7.4,71.0,Dean DeBlois,140463.0,160.8
+76,The Secret Life of Pets 2,2019.0,U,86,"Animation, Adventure, Comedy",6.4,55.0,Chris Renaud,65991.0,158.87
+77,Who Framed Roger Rabbit,1988.0,U,104,"Animation, Adventure, Comedy",7.7,83.0,Robert Zemeckis,209622.0,156.45
+78,Over the Hedge,2006.0,U,83,"Animation, Adventure, Comedy",6.7,67.0,Tim Johnson,183828.0,155.02
+79,Horton Hears a Who!,2008.0,U,86,"Animation, Adventure, Comedy",6.8,71.0,Jimmy Hayward,146325.0,154.53
+80,Trolls,2016.0,P13,92,"Animation, Adventure, Comedy",6.4,55.0,Mike Mitchell,86735.0,153.71
+81,Cars 3,2017.0,U,102,"Animation, Adventure, Comedy",6.7,59.0,Brian Fee,111083.0,152.9
+82,Puss in Boots,2011.0,U,90,"Animation, Adventure, Comedy",6.6,65.0,Chris Miller,183816.0,149.26
+83,Megamind,2010.0,U,95,"Animation, Action, Comedy",7.3,63.0,Tom McGrath,279862.0,148.42
+84,Hotel Transylvania,2012.0,U,91,"Animation, Adventure, Comedy",7.0,47.0,Genndy Tartakovsky,268384.0,148.31
+85,Lilo & Stitch,2002.0,U,85,"Animation, Adventure, Comedy",7.3,74.0,Dean DeBlois,202032.0,145.79
+86,One Hundred and One Dalmatians,1961.0,U,79,"Animation, Adventure, Comedy",7.3,83.0,Clyde Geronimi,175405.0,144.88
+87,Rio,2011.0,U,96,"Animation, Adventure, Comedy",6.9,63.0,Carlos Saldanha,238916.0,143.62
+88,Kung Fu Panda 3,2016.0,U,95,"Animation, Action, Adventure",7.1,66.0,Alessandro Carloni,172620.0,143.53
+89,The Smurfs,2011.0,U,103,"Animation, Adventure, Comedy",5.4,30.0,Raja Gosnell,93861.0,142.61
+90,The Jungle Book,1967.0,U,78,"Animation, Adventure, Comedy",7.6,65.0,Wolfgang Reitherman,191569.0,141.84
+91,Pocahontas,1995.0,G,81,"Animation, Adventure, Drama",6.7,58.0,Mike Gabriel,195788.0,141.6
+92,A Christmas Carol,2009.0,U,96,"Animation, Adventure, Comedy",6.8,55.0,Robert Zemeckis,123050.0,137.86
+93,Dinosaur,2000.0,U,82,"Animation, Adventure, Drama",6.4,56.0,Eric Leighton,64560.0,137.75
+94,Chicken Little,2005.0,U,81,"Animation, Adventure, Comedy",5.7,48.0,Mark Dindal,97258.0,135.39
+95,Alvin and the Chipmunks: Chipwrecked,2011.0,U,87,"Animation, Adventure, Comedy",4.3,24.0,Mike Mitchell,37739.0,133.11
+96,Rio 2,2014.0,U,101,"Animation, Adventure, Comedy",6.3,49.0,Carlos Saldanha,96058.0,131.54
+97,The Peanuts Movie,2015.0,U,88,"Animation, Adventure, Comedy",7.0,67.0,Steve Martino,48164.0,130.18
+98,Robots,2005.0,U,91,"Animation, Adventure, Comedy",6.4,64.0,Chris Wedge,155576.0,128.2
+99,Enchanted,2007.0,U,107,"Animation, Adventure, Comedy",7.1,75.0,Kevin Lima,211584.0,127.81
+100,Bee Movie,2007.0,U,91,"Animation, Adventure, Comedy",6.1,54.0,Simon J. Smith,171777.0,126.63
+101,Cloudy with a Chance of Meatballs,2009.0,U,90,"Animation, Adventure, Comedy",6.9,66.0,Phil Lord,246504.0,124.87
+102,Rango,2011.0,U,107,"Animation, Action, Adventure",7.2,75.0,Gore Verbinski,281386.0,123.48
+103,The Good Dinosaur,2015.0,P13,93,"Animation, Adventure, Comedy",6.7,66.0,Peter Sohn,122054.0,123.09
+104,Mulan,1998.0,,87,"Animation, Adventure, Comedy",7.6,71.0,Tony Bancroft,302265.0,120.62
+105,Cloudy with a Chance of Meatballs 2,2013.0,PG,95,"Animation, Adventure, Comedy",6.3,59.0,Cody Cameron,109825.0,119.79
+106,G-Force,2009.0,U,88,"Animation, Action, Adventure",5.1,41.0,Hoyt Yeatman,48539.0,119.44
+107,Lightyear,2022.0,(Banned),105,"Animation, Action, Adventure",6.1,60.0,Angus MacLane,116230.0,118.31
+108,Bolt,2008.0,U,96,"Animation, Adventure, Comedy",6.8,67.0,Byron Howard,220776.0,114.05
+109,The Little Mermaid,1989.0,U,83,"Animation, Adventure, Family",7.6,88.0,Ron Clements,279943.0,111.54
+110,Mr. Peabody & Sherman,2014.0,U,92,"Animation, Adventure, Comedy",6.8,59.0,Rob Minkoff,74845.0,111.51
+111,Hop,2011.0,U,95,"Animation, Adventure, Comedy",5.4,41.0,Tim Hill,35991.0,108.09
+112,Epic,2013.0,P13,102,"Animation, Action, Adventure",6.6,52.0,Chris Wedge,107962.0,107.52
+113,Angry Birds,2016.0,P13,97,"Animation, Action, Adventure",6.3,43.0,Clay Kaytis,98979.0,107.51
+114,Chicken Run,2000.0,U,84,"Animation, Adventure, Comedy",7.1,88.0,Peter Lord,200660.0,106.83
+115,The Lego Movie 2: The Second Part,2019.0,U,107,"Animation, Action, Adventure",6.6,65.0,Mike Mitchell,72599.0,105.81
+116,The Princess and the Frog,2009.0,U,97,"Animation, Adventure, Comedy",7.1,73.0,Ron Clements,156669.0,104.4
+117,Rise of the Guardians,2012.0,U,97,"Animation, Action, Adventure",7.2,58.0,Peter Ramsey,185151.0,103.41
+118,Bambi,1942.0,U,69,"Animation, Adventure, Drama",7.3,91.0,James Algar,149028.0,102.8
+119,The Prince of Egypt,1998.0,(Banned),99,"Animation, Adventure, Drama",7.2,64.0,Brenda Chapman,139621.0,101.22
+120,The Rugrats Movie,1998.0,U,79,"Animation, Adventure, Comedy",5.9,62.0,Igor Kovalyov,20144.0,100.49
+121,Yogi Bear,2010.0,U,81,"Animation, Adventure, Comedy",4.6,35.0,Eric Brevig,22865.0,100.25
+122,The Hunchback of Notre Dame,1996.0,U,91,"Animation, Drama, Family",7.0,74.0,Gary Trousdale,165359.0,100.14
+123,The Addams Family,2019.0,P13,86,"Animation, Comedy, Family",5.8,46.0,Greg Tiernan,43012.0,100.04
+124,Gnomeo & Juliet,2011.0,U,84,"Animation, Adventure, Comedy",5.9,53.0,Kelly Asbury,57910.0,99.97
+125,Hercules,1997.0,,93,"Animation, Adventure, Comedy",7.3,74.0,Ron Clements,243686.0,99.05
+126,Meet the Robinsons,2007.0,U,95,"Animation, Adventure, Comedy",6.8,61.0,Stephen J. Anderson,106517.0,97.82
+127,Sausage Party,2016.0,(Banned),89,"Animation, Adventure, Comedy",6.1,66.0,Conrad Vernon,202398.0,97.69
+128,The Bad Guys,2022.0,P13,100,"Animation, Adventure, Comedy",6.8,64.0,Pierre Perifel,50341.0,97.23
+129,Encanto,2021.0,PG,102,"Animation, Comedy, Family",7.2,75.0,Jared Bush,240871.0,96.09
+130,DC League of Super-Pets,2022.0,PG,105,"Animation, Action, Adventure",7.1,56.0,Jared Stern,70855.0,93.66
+131,Lady and the Tramp,1955.0,G,76,"Animation, Adventure, Comedy",7.3,78.0,Clyde Geronimi,142578.0,93.6
+132,Antz,1998.0,U,83,"Animation, Adventure, Comedy",6.5,72.0,Eric Darnell,160242.0,90.76
+133,Space Jam,1996.0,U,88,"Animation, Adventure, Comedy",6.5,59.0,Joe Pytka,205861.0,90.46
+134,Planes,2013.0,PG,91,"Animation, Adventure, Comedy",5.7,39.0,Klay Hall,47186.0,90.29
+135,The Emperor's New Groove,2000.0,U,78,"Animation, Adventure, Comedy",7.4,70.0,Mark Dindal,215107.0,89.3
+136,Peter Pan,1953.0,U,77,"Animation, Adventure, Family",7.3,76.0,Clyde Geronimi,147507.0,87.4
+137,The Emoji Movie,2017.0,P13,86,"Animation, Adventure, Comedy",3.4,12.0,Tony Leondis,68195.0,86.09
+138,Alvin and the Chipmunks: The Road Chip,2015.0,U,92,"Animation, Adventure, Comedy",4.9,33.0,Walt Becker,21302.0,85.89
+139,Gekijô-ban poketto monsutâ - Myûtsû no gyakushû,1998.0,U,96,"Animation, Action, Adventure",6.2,35.0,Kunihiko Yuyama,44624.0,85.74
+140,The SpongeBob SquarePants Movie,2004.0,U,87,"Animation, Adventure, Comedy",7.1,66.0,Stephen Hillenburg,97319.0,85.42
+141,Brother Bear,2003.0,U,85,"Animation, Adventure, Comedy",6.8,48.0,Aaron Blaise,117820.0,85.34
+142,Open Season,2006.0,U,86,"Animation, Adventure, Comedy",6.1,49.0,Roger Allers,101929.0,85.11
+143,Cinderella,1950.0,G,74,"Animation, Family, Fantasy",7.3,85.0,Clyde Geronimi,167829.0,85.0
+144,Ferdinand,2017.0,U,108,"Animation, Adventure, Comedy",6.7,58.0,Carlos Saldanha,60820.0,84.41
+145,Pinocchio,1940.0,U,88,"Animation, Adventure, Comedy",7.5,99.0,Norman Ferguson,153959.0,84.25
+146,Atlantis: The Lost Empire,2001.0,U,95,"Animation, Action, Adventure",6.9,52.0,Gary Trousdale,127634.0,84.05
+147,Penguins of Madagascar,2014.0,PG,92,"Animation, Action, Adventure",6.6,53.0,Eric Darnell,97147.0,83.35
+148,Smallfoot,2018.0,P13,96,"Animation, Adventure, Comedy",6.6,60.0,Karey Kirkpatrick,41596.0,83.24
+149,Turbo,2013.0,PG,96,"Animation, Adventure, Comedy",6.4,58.0,David Soren,104968.0,83.03
+150,Beowulf,2007.0,U,115,"Animation, Action, Adventure",6.3,59.0,Robert Zemeckis,171252.0,82.16
+151,Jimmy Neutron: Boy Genius,2001.0,U,82,"Animation, Action, Adventure",6.1,65.0,John A. Davis,36698.0,80.94
+152,The Adventures of Tintin,2011.0,U,107,"Animation, Action, Adventure",7.3,68.0,Steven Spielberg,237757.0,77.59
+153,Rugrats in Paris: The Movie - Rugrats II,2000.0,U,78,"Animation, Adventure, Comedy",6.1,62.0,Stig Bergqvist,13203.0,76.51
+154,Fantasia,1940.0,,124,"Animation, Family, Fantasy",7.7,96.0,James Algar,100470.0,76.41
+155,Garfield,2004.0,U,80,"Animation, Adventure, Comedy",5.0,27.0,Peter Hewitt,90601.0,75.37
+156,Coraline,2009.0,U,100,"Animation, Drama, Family",7.7,80.0,Henry Selick,246432.0,75.29
+157,The Nightmare Before Christmas,1993.0,U,76,"Animation, Family, Fantasy",7.9,82.0,Henry Selick,353828.0,75.08
+158,Oliver & Company,1988.0,U,74,"Animation, Adventure, Comedy",6.6,58.0,George Scribner,51049.0,74.15
+159,Captain Underpants: The First Epic Movie,2017.0,U,89,"Animation, Action, Adventure",6.2,69.0,David Soren,30681.0,73.92
+160,Monster House,2006.0,U,91,"Animation, Comedy, Family",6.6,68.0,Gil Kenan,129913.0,73.66
+161,Spirit: Stallion of the Cimarron,2002.0,G,83,"Animation, Adventure, Drama",7.2,52.0,Kelly Asbury,81252.0,73.28
+162,Barnyard,2006.0,U,90,"Animation, Adventure, Comedy",5.6,42.0,Steve Oedekerk,32994.0,72.78
+163,Storks,2016.0,P13,87,"Animation, Adventure, Comedy",6.8,56.0,Nicholas Stoller,65222.0,72.68
+164,The Rescuers,1977.0,,77,"Animation, Adventure, Comedy",6.9,74.0,John Lounsbery,67273.0,71.22
+165,The Smurfs 2,2013.0,PG,105,"Animation, Adventure, Comedy",5.3,34.0,Raja Gosnell,44343.0,71.02
+166,Space Jam: A New Legacy,2021.0,PG,115,"Animation, Adventure, Comedy",4.5,36.0,Malcolm D. Lee,76619.0,70.59
+167,Spies in Disguise,2019.0,U,102,"Animation, Action, Adventure",6.8,54.0,Nick Bruno,53407.0,66.76
+168,Stuart Little 2,2002.0,U,77,"Animation, Adventure, Comedy",5.5,66.0,Rob Minkoff,56750.0,64.96
+169,Flushed Away,2006.0,U,85,"Animation, Action, Adventure",6.6,74.0,David Bowers,133249.0,64.67
+170,The Nut Job,2014.0,PG,85,"Animation, Adventure, Comedy",5.7,37.0,Peter Lepeniotis,29514.0,64.25
+171,Ice Age: Collision Course,2016.0,U,94,"Animation, Adventure, Comedy",5.6,34.0,Michael Thurmeier,71136.0,64.06
+172,Happy Feet Two,2011.0,U,117,"Animation, Adventure, Comedy",5.8,50.0,George Miller,46505.0,64.01
+173,Song of the South,1946.0,G,94,"Animation, Comedy, Family",7.0,54.0,Harve Foster,14722.0,63.72
+174,The Fox and the Hound,1981.0,,83,"Animation, Adventure, Drama",7.2,65.0,Ted Berman,97991.0,63.46
+175,Beavis and Butt-Head Do America,1996.0,(Banned),81,"Animation, Adventure, Comedy",6.8,64.0,Mike Judge,59310.0,63.12
+176,Onward,2020.0,P13,102,"Animation, Adventure, Comedy",7.4,61.0,Dan Scanlon,159953.0,61.56
+177,Abominable,2019.0,(Banned),97,"Animation, Adventure, Comedy",7.0,61.0,Jill Culton,40838.0,60.72
+178,Fantasia 2000,1999.0,U,75,"Animation, Family, Fantasy",7.1,59.0,James Algar,40161.0,60.66
+179,The Lego Ninjago Movie,2017.0,U,101,"Animation, Action, Adventure",6.0,55.0,Charlie Bean,28357.0,59.28
+180,Planes: Fire & Rescue,2014.0,P13,83,"Animation, Adventure, Comedy",5.9,48.0,Bobs Gannaway,19080.0,59.17
+181,Surf's Up,2007.0,U,85,"Animation, Adventure, Comedy",6.7,64.0,Ash Brannon,85992.0,58.87
+182,Curious George,2006.0,,87,"Animation, Adventure, Comedy",6.5,62.0,Matthew O'Callaghan,17489.0,58.64
+183,The Croods: A New Age,2020.0,PG,95,"Animation, Adventure, Comedy",6.9,56.0,Joel Crawford,48924.0,58.57
+184,Anastasia,1997.0,U,94,"Animation, Adventure, Drama",7.1,61.0,Don Bluth,130554.0,58.41
+185,The Boss Baby: Family Business,2021.0,PG,107,"Animation, Adventure, Comedy",5.9,39.0,Tom McGrath,20557.0,57.3
+186,Escape from Planet Earth,2012.0,PG,89,"Animation, Adventure, Comedy",5.8,35.0,Cal Brunker,26391.0,57.01
+187,The Addams Family 2,2021.0,PG,93,"Animation, Adventure, Comedy",5.4,37.0,Conrad Vernon,14468.0,56.49
+188,The Curse of the Were-Rabbit,2005.0,U,85,"Animation, Adventure, Comedy",7.5,87.0,Steve Box,141265.0,56.11
+189,ParaNorman,2012.0,P13,92,"Animation, Adventure, Comedy",7.0,72.0,Chris Butler,106526.0,56.0
+190,Free Birds,2013.0,PG,91,"Animation, Adventure, Comedy",5.8,38.0,Jimmy Hayward,25191.0,55.75
+191,Legend of the Guardians: The Owls of Ga'Hoole,2010.0,U,97,"Animation, Action, Adventure",6.9,53.0,Zack Snyder,85563.0,55.68
+192,Raya and the Last Dragon,2021.0,PG,107,"Animation, Action, Adventure",7.3,74.0,Don Hall,161749.0,54.72
+193,TMNT,2007.0,U,87,"Animation, Action, Adventure",6.2,41.0,Kevin Munroe,66653.0,54.15
+194,Corpse Bride,2005.0,U,77,"Animation, Drama, Family",7.3,83.0,Tim Burton,286062.0,53.36
+195,"South Park: Bigger, Longer & Uncut",1999.0,(Banned),81,"Animation, Comedy, Fantasy",7.7,73.0,Trey Parker,210603.0,52.04
+196,Sleeping Beauty,1959.0,G,75,"Animation, Adventure, Family",7.2,85.0,Les Clark,155344.0,51.6
+197,Hoodwinked!,2005.0,PG,80,"Animation, Adventure, Comedy",6.5,45.0,Cory Edwards,64244.0,51.39
+198,The Tale of Despereaux,2008.0,,93,"Animation, Adventure, Comedy",6.1,53.0,Sam Fell,39221.0,50.88
+199,The Road to El Dorado,2000.0,U,89,"Animation, Adventure, Comedy",6.9,51.0,Bibo Bergeron,102514.0,50.86
+200,The Boxtrolls,2014.0,PG,96,"Animation, Adventure, Comedy",6.8,61.0,Graham Annable,60005.0,50.84
+201,The Book of Life,2014.0,PG,95,"Animation, Adventure, Comedy",7.2,67.0,Jorge R. Gutiérrez,74720.0,50.15
+202,Home on the Range,2004.0,PG,76,"Animation, Adventure, Comedy",5.4,50.0,Will Finn,24718.0,50.03
+203,Clifford the Big Red Dog,2021.0,P13,96,"Animation, Adventure, Comedy",5.9,55.0,Walt Becker,15316.0,48.95
+204,Return to Never Land,2002.0,U,72,"Animation, Adventure, Family",5.8,49.0,Robin Budd,21412.0,48.43
+205,The Land Before Time,1988.0,U,69,"Animation, Adventure, Drama",7.4,66.0,Don Bluth,94577.0,48.09
+206,Kubo and the Two Strings,2016.0,P13,101,"Animation, Action, Adventure",7.7,84.0,Travis Knight,134687.0,48.02
+207,The Jungle Book 2,2003.0,U,72,"Animation, Adventure, Comedy",5.3,38.0,Steve Trenbirth,17287.0,47.89
+208,Kimetsu no Yaiba: Mugen Ressha-Hen,2020.0,P13,117,"Animation, Action, Adventure",8.2,72.0,Haruo Sotozaki,66278.0,47.7
+209,An American Tail,1986.0,U,80,"Animation, Adventure, Comedy",6.9,38.0,Don Bluth,56130.0,47.48
+210,"Lyle, Lyle, Crocodile",2022.0,PG,106,"Animation, Adventure, Comedy",6.1,51.0,Josh Gordon,12450.0,46.89
+211,Tom and Jerry,2021.0,PG,101,"Animation, Adventure, Comedy",5.2,32.0,Tim Story,37707.0,46.54
+212,Arthur Christmas,2011.0,U,97,"Animation, Adventure, Comedy",7.1,69.0,Sarah Smith,63499.0,46.46
+213,The Tigger Movie,2000.0,,77,"Animation, Adventure, Comedy",6.3,53.0,Jun Falkenstein,19754.0,45.55
+214,Wonder Park,2019.0,P13,85,"Animation, Adventure, Comedy",5.8,45.0,Dylan Brown,12390.0,45.22
+215,Smurfs: The Lost Village,2017.0,PG,90,"Animation, Adventure, Comedy",6.0,40.0,Kelly Asbury,23039.0,45.02
+216,Gekijô-ban poketto monsutâ: Maboroshi no pokemon: Rugia bakutan,1999.0,,84,"Animation, Action, Adventure",6.0,28.0,Kunihiko Yuyama,23117.0,43.76
+217,Cats & Dogs: The Revenge of Kitty Galore,2010.0,U,82,"Animation, Action, Adventure",4.3,30.0,Brad Peyton,15817.0,43.59
+218,Sherlock Gnomes,2018.0,U,86,"Animation, Adventure, Comedy",5.2,36.0,John Stevenson,13353.0,43.24
+219,Planet 51,2009.0,U,91,"Animation, Adventure, Comedy",6.0,39.0,Jorge Blanco,57201.0,42.09
+220,The Angry Birds Movie 2,2019.0,P13,97,"Animation, Action, Adventure",6.4,60.0,Thurop Van Orman,32756.0,41.66
+221,The Star,2017.0,PG,86,"Animation, Adventure, Comedy",6.2,42.0,Timothy Reckart,8763.0,40.85
+222,PAW Patrol: The Movie,2021.0,P13,86,"Animation, Action, Adventure",6.1,50.0,Cal Brunker,7249.0,40.13
+223,The Wild Thornberrys Movie,2002.0,PG,85,"Animation, Adventure, Comedy",5.6,69.0,Cathy Malkasian,15033.0,40.11
+224,Pete's Dragon,1977.0,,128,"Animation, Adventure, Comedy",6.3,46.0,Don Chaffey,25758.0,40.1
+225,Rugrats Go Wild,2003.0,U,81,"Animation, Adventure, Comedy",5.5,38.0,John Eng,8716.0,39.4
+226,The Great Mouse Detective,1986.0,U,74,"Animation, Adventure, Family",7.1,73.0,Ron Clements,52262.0,38.6
+227,Treasure Planet,2002.0,PG,95,"Animation, Adventure, Family",7.2,60.0,Ron Clements,126406.0,38.18
+228,The AristoCats,1970.0,U,78,"Animation, Adventure, Comedy",7.1,66.0,Wolfgang Reitherman,109949.0,37.68
+229,The Wild,2006.0,U,95,"Animation, Adventure, Comedy",5.2,47.0,Steve 'Spaz' Williams,26932.0,37.38
+230,Recess: School's Out,2001.0,G,82,"Animation, Adventure, Comedy",6.5,43.0,Chuck Sheetz,11256.0,36.7
+231,Walking with Dinosaurs 3D,2013.0,PG,87,"Animation, Adventure, Comedy",5.2,37.0,Barry Cook,11693.0,36.08
+232,A Goofy Movie,1995.0,,78,"Animation, Adventure, Comedy",6.9,53.0,Kevin Lima,59368.0,35.35
+233,Frankenweenie,2012.0,U,87,"Animation, Comedy, Drama",6.9,74.0,Tim Burton,112572.0,35.29
+234,Star Wars: The Clone Wars,2008.0,U,98,"Animation, Action, Adventure",5.9,35.0,Dave Filoni,69747.0,35.16
+235,Gekijouban Jujutsu Kaisen 0,2021.0,PG-13,105,"Animation, Action, Fantasy",7.8,71.0,Seong-Hu Park,25663.0,34.54
+236,Final Fantasy: The Spirits Within,2001.0,U,106,"Animation, Action, Adventure",6.4,49.0,Hironobu Sakaguchi,83231.0,32.13
+237,Robin Hood,1973.0,,83,"Animation, Adventure, Comedy",7.5,57.0,Wolfgang Reitherman,133549.0,32.06
+238,Isle of Dogs,2018.0,P13,101,"Animation, Adventure, Comedy",7.8,82.0,Wes Anderson,180742.0,32.02
+239,9,2009.0,U,79,"Animation, Action, Adventure",7.0,60.0,Shane Acker,143877.0,31.74
+240,The Pirates! In an Adventure with Scientists!,2012.0,U,88,"Animation, Adventure, Comedy",6.7,73.0,Peter Lord,50153.0,31.05
+241,Doragon bôru chô: Burorî,2018.0,P13,100,"Animation, Action, Adventure",7.7,59.0,Tatsuya Nagamine,29828.0,30.71
+242,Space Chimps,2008.0,U,81,"Animation, Adventure, Comedy",4.5,36.0,Kirk DeMicco,12172.0,30.11
+243,Teen Titans Go! To the Movies,2018.0,U,84,"Animation, Action, Adventure",6.7,69.0,Aaron Horvath,20767.0,29.79
+244,James and the Giant Peach,1996.0,PG,79,"Animation, Adventure, Family",6.7,78.0,Henry Selick,71355.0,28.93
+245,Garfield: A Tale of Two Kitties,2006.0,U,82,"Animation, Adventure, Comedy",5.0,37.0,Tim Hill,45345.0,28.43
+246,The Nut Job 2: Nutty by Nature,2017.0,U,91,"Animation, Adventure, Comedy",5.5,36.0,Cal Brunker,7018.0,28.37
+247,The Ant Bully,2006.0,U,88,"Animation, Adventure, Comedy",5.8,59.0,John A. Davis,40824.0,28.14
+248,The Rescuers Down Under,1990.0,,77,"Animation, Adventure, Comedy",6.8,70.0,Hendel Butoy,45366.0,27.93
+249,All Dogs Go to Heaven,1989.0,U,84,"Animation, Adventure, Comedy",6.7,50.0,Don Bluth,44243.0,27.1
+250,Winnie the Pooh,2011.0,U,63,"Animation, Adventure, Comedy",7.1,74.0,Stephen J. Anderson,26986.0,26.69
+251,Sinbad: Legend of the Seven Seas,2003.0,PG,88,"Animation, Adventure, Comedy",6.7,48.0,Patrick Gilmore,57346.0,26.48
+252,The Adventures of Rocky & Bullwinkle,2000.0,PG,92,"Animation, Adventure, Comedy",4.3,36.0,Des McAnuff,20828.0,26.0
+253,Jonah: A VeggieTales Movie,2002.0,,82,"Animation, Adventure, Comedy",6.4,58.0,Phil Vischer,4410.0,25.58
+254,Alpha and Omega,2010.0,U,90,"Animation, Adventure, Comedy",5.1,36.0,Anthony Bell,14883.0,25.08
+255,Fritz the Cat,1972.0,(Banned),78,"Animation, Comedy, Drama",6.2,54.0,Ralph Bakshi,13760.0,25.0
+256,Ballerina,2016.0,PG,89,"Animation, Adventure, Comedy",6.7,48.0,Eric Summer,23514.0,24.7
+257,FernGully: The Last Rainforest,1992.0,U,76,"Animation, Adventure, Family",6.5,67.0,Bill Kroyer,32430.0,24.65
+258,Eight Crazy Nights,2002.0,U,76,"Animation, Comedy, Musical",5.3,23.0,Seth Kearsley,24166.0,23.44
+259,The Iron Giant,1999.0,U,86,"Animation, Action, Adventure",8.1,85.0,Brad Bird,212665.0,23.16
+260,Piglet's Big Movie,2003.0,,75,"Animation, Adventure, Comedy",6.1,62.0,Francis Glebas,8349.0,23.1
+261,The Care Bears Movie,1985.0,U,77,"Animation, Adventure, Comedy",5.6,46.0,Arna Selznick,5697.0,22.93
+262,Titan A.E.,2000.0,PG,94,"Animation, Action, Adventure",6.6,48.0,Don Bluth,62771.0,22.75
+263,Quest for Camelot,1998.0,,86,"Animation, Adventure, Comedy",6.2,50.0,Frederik Du Chau,17426.0,22.72
+264,The Sword in the Stone,1963.0,,79,"Animation, Adventure, Comedy",7.1,61.0,Wolfgang Reitherman,102718.0,22.18
+265,An American Tail: Fievel Goes West,1991.0,,75,"Animation, Adventure, Family",6.5,,Phil Nibbelink,27436.0,22.17
+266,My Little Pony: The Movie,2017.0,U,99,"Animation, Adventure, Comedy",6.1,39.0,Jayson Thiessen,7533.0,21.89
+267,Mars Needs Moms,2011.0,U,88,"Animation, Action, Adventure",5.4,49.0,Simon Wells,23357.0,21.38
+268,The Black Cauldron,1985.0,U,80,"Animation, Action, Adventure",6.3,59.0,Ted Berman,38722.0,21.29
+269,Fantastic Mr. Fox,2009.0,U,87,"Animation, Adventure, Comedy",7.9,83.0,Wes Anderson,251771.0,21.0
+270,Looney Tunes: Back in Action,2003.0,U,93,"Animation, Adventure, Comedy",5.8,64.0,Joe Dante,39273.0,20.99
+271,UglyDolls,2019.0,U,87,"Animation, Adventure, Comedy",5.1,39.0,Kelly Asbury,7472.0,20.15
+272,Middle School: The Worst Years of My Life,2016.0,PG,92,"Animation, Comedy, Family",6.1,51.0,Steve Carr,9612.0,19.99
+273,Yu-Gi-Oh! The Movie,2004.0,PG,100,"Animation, Action, Adventure",4.9,15.0,Hatsuki Tsuji,8865.0,19.76
+274,Astro Boy,2009.0,P13,94,"Animation, Action, Adventure",6.2,53.0,David Bowers,38525.0,19.55
+275,Igor,2008.0,U,87,"Animation, Comedy, Family",5.9,40.0,Tony Leondis,23946.0,19.53
+276,Valiant,2005.0,U,76,"Animation, Adventure, Comedy",5.5,45.0,Gary Chapman,23792.0,19.48
+277,Doug's 1st Movie,1999.0,,77,"Animation, Adventure, Comedy",4.9,,Maurice Joyce,3437.0,19.42
+278,Shaun the Sheep Movie,2015.0,PG,85,"Animation, Adventure, Comedy",7.3,81.0,Mark Burton,42188.0,19.38
+279,Karigurashi no Arietti,2010.0,U,94,"Animation, Adventure, Drama",7.6,80.0,Hiromasa Yonebayashi,98011.0,19.2
+280,Bedknobs and Broomsticks,1971.0,,117,"Animation, Adventure, Comedy",7.0,59.0,Robert Stevenson,39527.0,18.53
+281,DuckTales the Movie: Treasure of the Lost Lamp,1990.0,,74,"Animation, Adventure, Comedy",6.8,,Bob Hathcock,27967.0,18.12
+282,Pooh's Heffalump Movie,2005.0,G,68,"Animation, Adventure, Comedy",6.4,64.0,Frank Nissen,8055.0,18.1
+283,Gekijô-ban poketto monsutâ: Kesshô-tô no teiô,2000.0,G,93,"Animation, Action, Adventure",5.8,,Kunihiko Yuyama,14726.0,17.05
+284,Norm of the North,2016.0,U,88,"Animation, Adventure, Comedy",3.4,21.0,Trevor Wall,9748.0,17.02
+285,Missing Link,2019.0,P13,93,"Animation, Adventure, Comedy",6.7,68.0,Chris Butler,27779.0,16.65
+286,Happily N'Ever After,2006.0,PG,75,"Animation, Adventure, Comedy",4.5,28.0,Paul Bolger,10931.0,15.59
+287,Arthur et les Minimoys,2006.0,U,94,"Animation, Adventure, Comedy",6.0,39.0,Luc Besson,39433.0,15.13
+288,Gake no ue no Ponyo,2008.0,U,101,"Animation, Adventure, Comedy",7.6,86.0,Hayao Miyazaki,152737.0,15.09
+289,The Adventures of Pinocchio,1984.0,,98,"Animation, Family",5.2,,Ippei Kuri,99.0,14.76
+290,Fly Me to the Moon,2007.0,G,84,"Animation, Adventure, Family",4.5,36.0,Ben Stassen,4688.0,14.53
+291,Everyone's Hero,2006.0,,87,"Animation, Adventure, Comedy",5.7,51.0,Colin Brady,9327.0,14.52
+292,The Wonderful World of the Brothers Grimm,1962.0,,135,"Animation, Adventure, Biography",6.4,,Henry Levin,2043.0,14.17
+293,Cool World,1992.0,PG-13,102,"Animation, Comedy, Fantasy",4.8,28.0,Ralph Bakshi,24153.0,14.11
+294,Hey Arnold! The Movie,2002.0,U,76,"Animation, Adventure, Comedy",5.9,47.0,Tuck Tucker,7587.0,13.68
+295,The Pagemaster,1994.0,,80,"Animation, Adventure, Comedy",6.1,,Pixote Hunt,24656.0,13.67
+296,Osmosis Jones,2001.0,PG,95,"Animation, Action, Adventure",6.3,57.0,Bobby Farrelly,37606.0,13.6
+297,A Boy Named Charlie Brown,1969.0,,86,"Animation, Comedy, Drama",7.3,,Bill Melendez,5351.0,13.08
+298,One Piece Film Red,2022.0,PG-13,115,"Animation, Action, Adventure",6.6,69.0,Gorô Taniguchi,11997.0,12.78
+299,The Pirates Who Don't Do Anything: A VeggieTales Movie,2008.0,G,85,"Animation, Adventure, Comedy",5.6,49.0,Mike Nawrocki,3003.0,12.7
+300,Strange Magic,2015.0,PG,99,"Animation, Adventure, Comedy",5.7,25.0,Gary Rydstrom,11806.0,12.43
+301,The King and I,1999.0,,88,"Animation, Family, Fantasy",4.3,29.0,Richard Rich,4205.0,11.96
+302,Rock-A-Doodle,1991.0,,74,"Animation, Adventure, Comedy",6.0,,Don Bluth,10140.0,11.66
+303,The Powerpuff Girls Movie,2002.0,U,73,"Animation, Action, Adventure",6.5,65.0,Craig McCracken,10633.0,11.41
+304,Thumbelina,1994.0,,86,"Animation, Adventure, Family",6.2,,Don Bluth,17991.0,11.37
+305,Balto,1995.0,U,78,"Animation, Adventure, Drama",7.1,,Simon Wells,46209.0,11.35
+306,La flûte à six schtroumpfs,1976.0,,90,"Animation, Comedy, Family",5.9,,Peyo,1398.0,11.23
+307,Jetsons: The Movie,1990.0,,82,"Animation, Comedy, Family",5.5,46.0,Joseph Barbera,5519.0,10.9
+308,Welcome to Marwen,2018.0,PG-13,116,"Animation, Biography, Comedy",6.2,40.0,Robert Zemeckis,25093.0,10.76
+309,Hoodwinked Too! Hood vs. Evil,2011.0,PG,87,"Animation, Adventure, Comedy",4.7,20.0,Mike Disa,13604.0,10.14
+310,The Secret of NIMH,1982.0,U,82,"Animation, Adventure, Drama",7.5,76.0,Don Bluth,43284.0,10.14
+311,Sen to Chihiro no kamikakushi,2001.0,U,125,"Animation, Adventure, Family",8.6,96.0,Hayao Miyazaki,799543.0,10.06
+312,Once Upon a Forest,1993.0,U,71,"Animation, Adventure, Drama",6.4,,Charles Grosvenor,5865.0,10.0
+313,The Swan Princess,1994.0,,93,"Animation, Adventure, Comedy",6.4,70.0,Richard Rich,26210.0,9.77
+314,Digimon: The Movie,2000.0,U,82,"Animation, Action, Adventure",6.0,20.0,Bob Buchholz,7705.0,9.63
+315,Rock Dog,2016.0,PG,90,"Animation, Adventure, Comedy",5.9,48.0,Ash Brannon,5770.0,9.42
+316,We're Back! A Dinosaur's Story,1993.0,,72,"Animation, Adventure, Comedy",6.0,,Phil Nibbelink,15646.0,9.32
+317,Un gallo con muchos huevos,2015.0,PG-13,98,"Animation, Adventure, Comedy",5.7,,Gabriel Riva Palacio Alatriste,1146.0,9.07
+318,Wizards,1977.0,,82,"Animation, Adventure, Fantasy",6.3,,Ralph Bakshi,12475.0,9.0
+319,All Dogs Go to Heaven 2,1996.0,U,82,"Animation, Adventure, Family",5.5,,Larry Leker,6412.0,8.62
+320,Ratchet & Clank,2016.0,U,94,"Animation, Action, Adventure",5.5,29.0,Kevin Munroe,11476.0,8.55
+321,Care Bears Movie II: A New Generation,1986.0,,76,"Animation, Adventure, Comedy",5.4,39.0,Dale Schott,2429.0,8.54
+322,Legends of Oz: Dorothy's Return,2013.0,PG,88,"Animation, Adventure, Family",5.0,25.0,Will Finn,6156.0,8.46
+323,Bebe's Kids,1992.0,PG-13,70,"Animation, Comedy, Fantasy",5.8,,Bruce W. Smith,5378.0,8.44
+324,Early Man,2018.0,PG,89,"Animation, Adventure, Comedy",6.1,68.0,Nick Park,23052.0,8.27
+325,Dragon Ball Z: Doragon bôru Z - Fukkatsu no 'F',2015.0,,93,"Animation, Action, Adventure",7.2,,Tadayoshi Yamamuro,23226.0,8.01
+326,Robinson Crusoe,2016.0,PG,91,"Animation, Adventure, Comedy",5.3,36.0,Vincent Kesteloot,6482.0,7.97
+327,Tenki no ko,2019.0,P13,112,"Animation, Drama, Fantasy",7.5,72.0,Makoto Shinkai,49341.0,7.8
+328,The Secret of the Sword,1985.0,,100,"Animation, Action, Adventure",7.2,31.0,Ed Friedman,3140.0,7.66
+329,The Magic Roundabout,2005.0,,85,"Animation, Adventure, Comedy",5.2,,Dave Borthwick,3576.0,7.42
+330,Doogal,2006.0,,85,"Animation, Adventure, Comedy",2.8,23.0,Dave Borthwick,5296.0,7.38
+331,Gulliver's Travels,1939.0,,76,"Animation, Adventure, Comedy",6.6,,Dave Fleischer,4642.0,7.13
+332,Les triplettes de Belleville,2003.0,U,80,"Animation, Adventure, Comedy",7.7,91.0,Sylvain Chomet,55962.0,7.0
+333,The Chipmunk Adventure,1987.0,,78,"Animation, Adventure, Comedy",7.1,,Janice Karman,5759.0,6.8
+334,Loving Vincent,2017.0,PG-13,94,"Animation, Drama, Mystery",7.8,62.0,DK Welchman,60868.0,6.74
+335,Here Come the Littles,1985.0,,72,"Animation, Adventure, Family",6.8,,Bernard Deyriès,256.0,6.57
+336,Teacher's Pet,2004.0,PG,73,"Animation, Adventure, Comedy",5.7,74.0,Timothy Björklund,1887.0,6.49
+337,The Last Unicorn,1982.0,U,92,"Animation, Adventure, Drama",7.3,70.0,Jules Bass,28321.0,6.46
+338,American Pop,1981.0,,96,"Animation, Drama, History",7.1,57.0,Ralph Bakshi,5279.0,6.0
+339,Urfin Dzhyus i ego derevyannye soldaty,2017.0,,91,"Animation, Adventure, Family",4.7,,Fyodor Dmitriev,340.0,5.97
+340,My Little Pony: The Movie,1986.0,,86,"Animation, Adventure, Family",5.9,23.0,Mike Joens,2802.0,5.96
+341,The Transformers: The Movie,1986.0,U,84,"Animation, Action, Adventure",7.2,43.0,Nelson Shin,41051.0,5.85
+342,Marcel the Shell with Shoes On,2021.0,PG,90,"Animation, Comedy, Drama",7.7,80.0,Dean Fleischer Camp,20248.0,5.79
+343,Boku no hîrô akademia THE MOVIE ~ 2-ri no eiyû ~,2018.0,PG-13,96,"Animation, Action, Adventure",7.3,,Kenji Nagasaki,11657.0,5.75
+344,Orlando,2011.0,,80,Animation,4.4,,Fulvio Ottaviano,16.0,5.74
+345,Batman: Mask of the Phantasm,1993.0,PG,76,"Animation, Action, Adventure",7.8,65.0,Kevin Altieri,54039.0,5.62
+346,Aqua Teen Hunger Force Colon Movie Film for Theaters,2007.0,(Banned),86,"Animation, Action, Adventure",6.7,54.0,Matt Maiellaro,14326.0,5.52
+347,A Scanner Darkly,2006.0,18PL,100,"Animation, Comedy, Crime",7.0,73.0,Richard Linklater,114927.0,5.5
+348,Monkeybone,2001.0,U,93,"Animation, Comedy, Fantasy",4.8,40.0,Henry Selick,18723.0,5.41
+349,Charlotte's Web,1973.0,,94,"Animation, Adventure, Drama",6.9,73.0,Charles Nichols,21985.0,5.23
+350,Kaze tachinu,2013.0,P13,126,"Animation, Biography, Drama",7.7,83.0,Hayao Miyazaki,91491.0,5.21
+351,Heidi's Song,1982.0,,94,"Animation, Adventure, Drama",6.2,,Robert Taylor,320.0,5.12
+352,Kimi no na wa.,2016.0,P13,106,"Animation, Drama, Fantasy",8.4,81.0,Makoto Shinkai,292729.0,5.02
+353,Rainbow Brite and the Star Stealer,1985.0,,85,"Animation, Adventure, Family",6.7,,Bernard Deyriès,1331.0,4.89
+354,"Hey There, It's Yogi Bear",1964.0,G,89,"Animation, Adventure, Comedy",6.5,,Joseph Barbera,1089.0,4.84
+355,Hauru no ugoku shiro,2004.0,U,119,"Animation, Adventure, Family",8.2,82.0,Hayao Miyazaki,417772.0,4.71
+356,Persepolis,2007.0,PG-13,96,"Animation, Biography, Drama",8.0,90.0,Vincent Paronnaud,97570.0,4.45
+357,The Pebble and the Penguin,1995.0,U,74,"Animation, Adventure, Comedy",5.5,,Don Bluth,5339.0,3.98
+358,Batman: The Killing Joke,2016.0,R,76,"Animation, Action, Crime",6.4,,Sam Liu,59711.0,3.78
+359,Anomalisa,2015.0,R,90,"Animation, Comedy, Drama",7.3,88.0,Duke Johnson,73877.0,3.76
+360,Ne Zha zhi mo tong jiang shi,2019.0,P13,110,"Animation, Action, Adventure",7.4,54.0,Yu Yang,8129.0,3.7
+361,Cats Don't Dance,1997.0,,75,"Animation, Comedy, Family",6.9,62.0,Mark Dindal,8103.0,3.56
+362,Tom and Jerry: The Movie,1992.0,U,84,"Animation, Adventure, Comedy",5.4,,Phil Roman,11641.0,3.56
+363,Starchaser: The Legend of Orin,1985.0,,100,"Animation, Action, Adventure",6.4,,Steven Hahn,2378.0,3.36
+364,Happily Ever After,1989.0,,75,"Animation, Family, Fantasy",5.5,,John Howley,2520.0,3.3
+365,Pinocchio and the Emperor of the Night,1987.0,,87,"Animation, Adventure, Family",6.3,,Hal Sutherland,711.0,3.26
+366,"Race for Your Life, Charlie Brown",1977.0,,76,"Animation, Adventure, Comedy",7.2,55.0,Bill Melendez,3792.0,3.22
+367,Sgt. Stubby: An American Hero,2018.0,PG,84,"Animation, Adventure, Family",6.9,58.0,Richard Lanni,2445.0,3.14
+368,Clifford's Really Big Movie,2004.0,G,74,"Animation, Adventure, Comedy",5.4,49.0,Robert C. Ramirez,1027.0,2.92
+369,Waking Life,2001.0,R,99,"Animation, Drama, Fantasy",7.7,84.0,Richard Linklater,65778.0,2.89
+370,The Care Bears Adventure in Wonderland,1987.0,,80,"Animation, Adventure, Comedy",5.7,39.0,Raymond Jafelice,1251.0,2.61
+371,Dragon Ball Z: Doragon bôru Z - Kami to Kami,2013.0,,85,"Animation, Action, Adventure",7.1,,Masahiro Hosoda,29060.0,2.55
+372,Meari to majo no hana,2017.0,PG,103,"Animation, Adventure, Family",6.8,74.0,Hiromasa Yonebayashi,15308.0,2.42
+373,Pokémon the Movie: I Choose You,2017.0,U,98,"Animation, Action, Adventure",6.3,,Kunihiko Yuyama,7204.0,2.4
+374,Mononoke-hime,1997.0,U,134,"Animation, Action, Adventure",8.3,76.0,Hayao Miyazaki,410956.0,2.38
+375,Vals Im Bashir,2008.0,(Banned),90,"Documentary, Animation, Biography",8.0,91.0,Ari Folman,59230.0,2.28
+376,L'illusionniste,2010.0,PG,80,"Animation, Drama, Fantasy",7.5,82.0,Sylvain Chomet,35959.0,2.23
+377,Heathcliff: The Movie,1986.0,,73,"Family, Animation, Comedy",5.1,,Bruno Bianchi,289.0,2.19
+378,Scoob!,2020.0,U,93,"Animation, Adventure, Comedy",5.6,43.0,Tony Cervone,28687.0,2.19
+379,The Princess and the Goblin,1991.0,,82,"Animation, Adventure, Comedy",6.7,,József Gémes,2995.0,2.14
+380,"Bon Voyage, Charlie Brown (and Don't Come Back!!)",1980.0,,75,"Animation, Adventure, Comedy",7.1,68.0,Bill Melendez,3401.0,2.01
+381,Racetime,2018.0,PG,89,"Animation, Adventure, Musical",5.5,,Benoît Godbout,560.0,1.87
+382,The Nutcracker Prince,1990.0,,75,"Animation, Adventure, Family",6.8,,Paul Schibli,2550.0,1.78
+383,Poketto monsutâ: Serebî - Toki wo koeta deai,2001.0,G,75,"Animation, Action, Adventure",5.7,,Kunihiko Yuyama,9024.0,1.73
+384,Astérix: Le domaine des dieux,2014.0,,85,"Animation, Adventure, Comedy",6.9,,Louis Clichy,14803.0,1.66
+385,Terra,2007.0,PG,90,"Animation, Action, Adventure",6.5,54.0,Aristomenis Tsirbas,12055.0,1.65
+386,Dumbo,1941.0,G,64,"Animation, Adventure, Drama",7.2,96.0,Samuel Armstrong,137452.0,1.6
+387,Vincent,1987.0,,105,"Animation, Biography, Drama",7.5,,Paul Cox,437.0,1.58
+388,Kaguya-hime no monogatari,2013.0,P13,137,"Animation, Drama, Family",8.0,89.0,Isao Takahata,50319.0,1.51
+389,Genesis: Paradise Lost,2017.0,PG,130,"Documentary, Animation",4.9,,Ralph Strean,754.0,1.44
+390,Little Nemo,1989.0,,85,"Animation, Adventure, Comedy",7.1,,Masami Hata,7941.0,1.37
+391,The Oscar Nominated Short Films: Animation,2011.0,,85,Animation,6.9,,Geefwee Boedoe,42.0,1.35
+392,Heavy Traffic,1973.0,,77,"Animation, Comedy, Drama",6.5,,Ralph Bakshi,3530.0,1.34
+393,Le Petit Prince,2015.0,PG,108,"Animation, Adventure, Drama",7.7,70.0,Mark Osborne,64624.0,1.34
+394,GoBots: Battle of the Rock Lords,1986.0,,75,"Animation, Action, Adventure",5.4,30.0,Don Lusk,532.0,1.34
+395,Babar: The Movie,1989.0,,70,"Animation, Adventure, Family",6.3,,Alan Bunce,1065.0,1.31
+396,One Piece: Stampede,2019.0,,101,"Animation, Action, Adventure",7.5,,Takashi Ôtsuka,7043.0,1.3
+397,Astérix: Le secret de la potion magique,2018.0,,87,"Animation, Adventure, Comedy",6.7,,Alexandre Astier,10694.0,1.27
+398,Freddie as F.R.O.7.,1992.0,,91,"Animation, Adventure, Comedy",5.1,,Jon Acevski,781.0,1.12
+399,Tonari no Totoro,1988.0,U,86,"Animation, Comedy, Family",8.1,86.0,Hayao Miyazaki,356948.0,1.11
+400,The Nine Lives of Fritz the Cat,1974.0,,77,"Animation, Comedy",5.3,,Robert Taylor,2914.0,1.09
+401,Alice in Wonderland,1951.0,U,75,"Animation, Adventure, Comedy",7.3,68.0,Clyde Geronimi,148335.0,1.07
+402,The Adventures of the American Rabbit,1986.0,,85,"Animation, Family, Fantasy",5.3,,Nobutaka Nishizawa,491.0,1.05
+403,Inosensu: Innocence,2004.0,PG-13,100,"Animation, Drama, Mystery",7.4,66.0,Mamoru Oshii,39483.0,1.04
+404,Yu-Gi-Oh!: The Dark Side of Dimensions,2016.0,P13,130,"Animation, Adventure, Drama",6.9,,Satoshi Kuwabara,3320.0,1.02
+405,Kokuriko-zaka kara,2011.0,U,91,"Animation, Comedy, Drama",7.4,71.0,Gorô Miyazaki,47994.0,1.0
+406,Cowboy Bebop: Tengoku no tobira,2001.0,18SG,115,"Animation, Action, Crime",7.8,61.0,Shin'ichirô Watanabe,50988.0,1.0
+407,Yellow Submarine,1968.0,,88,"Animation, Adventure, Comedy",7.4,79.0,George Dunning,27292.0,0.99
+408,The Ten Commandments,2007.0,PG,88,"Animation, Family, History",2.9,25.0,Bill Boyce,2486.0,0.95
+409,The Lord of the Rings,1978.0,U,132,"Animation, Adventure, Fantasy",6.2,,Ralph Bakshi,34771.0,0.92
+410,La tortue rouge,2016.0,U,80,"Animation, Drama, Family",7.5,86.0,Michael Dudok de Wit,36967.0,0.92
+411,Paprika,2006.0,R,90,"Animation, Drama, Fantasy",7.7,81.0,Satoshi Kon,88792.0,0.88
+412,The Reluctant Dragon,1941.0,,74,"Animation, Comedy, Family",6.8,,Alfred L. Werker,3604.0,0.87
+413,Song of the Sea,2014.0,PG,93,"Animation, Adventure, Drama",8.0,85.0,Tomm Moore,61075.0,0.86
+414,The Adventures of Mark Twain,1985.0,U,86,"Animation, Adventure, Family",7.2,,Will Vinton,3239.0,0.85
+415,Shin Evangelion Gekijôban,2021.0,,154,"Animation, Action, Drama",8.0,84.0,Mahiro Maeda,12461.0,0.83
+416,Mirai no Mirai,2018.0,U,98,"Animation, Adventure, Drama",7.0,81.0,Mamoru Hosoda,17171.0,0.81
+417,Victory Through Air Power,1943.0,,70,"Documentary, Animation, History",6.5,,James Algar,1116.0,0.8
+418,Gekijouban Poketto monsutâ: Minna no Monogatari,2018.0,,100,"Animation, Action, Adventure",6.2,,Tetsuo Yajima,2818.0,0.79
+419,Pippi Longstocking,1997.0,,76,"Animation, Adventure, Comedy",5.2,,Michael Schaack,1600.0,0.78
+420,Pâfekuto burû,1997.0,18,81,"Animation, Crime, Drama",8.0,67.0,Satoshi Kon,85688.0,0.78
+421,Asterix in America,1994.0,,85,"Animation, Adventure, Comedy",5.9,,Gerhard Hahn,8084.0,0.77
+422,Omoide no Marnie,2014.0,P13,103,"Animation, Drama, Family",7.7,72.0,Hiromasa Yonebayashi,44298.0,0.77
+423,Fire and Ice,1983.0,U,81,"Animation, Adventure, Fantasy",6.5,45.0,Ralph Bakshi,11816.0,0.76
+424,Gekijô-ban poketto monsutaa: Mizu no Miyako no Mamori Gami Ratiasu to Ratiosu,2002.0,,80,"Animation, Action, Adventure",6.0,27.0,Jim Malone,6549.0,0.75
+425,Chaar Sahibzaade 2: Rise of Banda Singh Bahadur,2016.0,,134,Animation,8.5,,Harry Baweja,821.0,0.69
+426,The Secret of Kells,2009.0,U,71,"Animation, Adventure, Family",7.5,81.0,Tomm Moore,37140.0,0.69
+427,The Thief and the Cobbler,1993.0,,99,"Animation, Action, Adventure",7.1,,Richard Williams,4380.0,0.67
+428,Kochadaiiyaan,2014.0,,118,"Animation, Action, Adventure",6.2,,Soundarya Rajinikanth Vishagan,5252.0,0.66
+429,Metoroporisu,2001.0,U,108,"Animation, Adventure, Drama",7.2,75.0,Rintarô,22094.0,0.64
+430,The Pilgrim's Progress,2019.0,PG,108,"Animation, Adventure, Family",6.3,,Robert Fernandez,800.0,0.62
+431,Ozu no mahôtsukai,1982.0,,78,"Animation, Family, Adventure",6.6,,Fumihiko Takayama,418.0,0.61
+432,Invitation to the Dance,1956.0,,93,"Animation, Fantasy, Musical",6.4,,Gene Kelly,962.0,0.6
+433,El gran milagro,2011.0,PG,70,"Animation, Drama",4.6,,Bruce Morris,392.0,0.56
+434,Akira,1988.0,P13,124,"Animation, Action, Drama",8.0,67.0,Katsuhiro Ôtomo,195554.0,0.55
+435,"Uchiage hanabi, shita kara miru ka? Yoko kara miru ka?",2017.0,,90,"Animation, Drama, Fantasy",5.5,40.0,Akiyuki Shinbô,3605.0,0.53
+436,Code Geass: Fukkatsu No Lelouch,2019.0,Not Rated,112,"Animation, Action, Adventure",7.3,,Gorô Taniguchi,3162.0,0.52
+437,Kôkaku kidôtai,1995.0,,83,"Animation, Action, Crime",7.9,76.0,Mamoru Oshii,149805.0,0.52
+438,Delgo,2008.0,PG,94,"Animation, Adventure, Comedy",4.3,27.0,Marc F. Adler,3125.0,0.51
+439,Pound Puppies and the Legend of Big Paw,1988.0,,76,"Animation, Adventure, Comedy",4.7,,Pierre DeCelles,676.0,0.5
+440,Kaze no tani no Naushika,1984.0,U,117,"Animation, Adventure, Sci-Fi",8.0,86.0,Hayao Miyazaki,175345.0,0.5
+441,Bilal: A New Breed of Hero,2015.0,PG-13,105,"Animation, Action, Adventure",7.6,52.0,Khurram H. Alavi,18972.0,0.49
+442,Romeo & Juliet: Sealed with a Kiss,2005.0,G,76,"Animation, Comedy, Drama",3.6,,Phil Nibbelink,404.0,0.46
+443,Omohide poro poro,1991.0,U,119,"Animation, Drama, Romance",7.6,90.0,Isao Takahata,34892.0,0.45
+444,Gary Come Home,2019.0,,78,"Animation, Action, Comedy",,,John Millies,,0.45
+445,Condorito: La Película,2017.0,PG,88,"Animation, Adventure, Comedy",5.2,,Alex Orrelle,931.0,0.45
+446,Bakemono no ko,2015.0,PG-13,119,"Animation, Action, Adventure",7.6,65.0,Mamoru Hosoda,25623.0,0.45
+447,Suchîmubôi,2004.0,PG-13,126,"Animation, Action, Adventure",6.8,66.0,Katsuhiro Ôtomo,18274.0,0.41
+448,Yoru wa mijikashi aruke yo otome,2017.0,,92,"Animation, Adventure, Comedy",7.5,65.0,Masaaki Yuasa,5816.0,0.41
+449,Puella Magi Madoka Magica: The Movie 3: Rebelion,2013.0,,116,"Animation, Drama, Fantasy",7.8,,Yukihiro Miyamoto,3892.0,0.38
+450,Gandahar,1987.0,,78,"Animation, Adventure, Fantasy",7.0,,René Laloux,5116.0,0.37
+451,Chico & Rita,2010.0,,94,"Animation, Crime, Drama",7.2,76.0,Tono Errando,9484.0,0.35
+452,Jue ji,2016.0,,118,"Animation, Adventure, Fantasy",5.1,,Jingming Guo,1307.0,0.35
+453,Arthur et la vengeance de Maltazard,2009.0,PG,107,"Animation, Adventure, Family",5.2,,Luc Besson,10407.0,0.35
+454,The Prophet,2014.0,PG,85,"Animation, Drama",7.0,61.0,Roger Allers,4907.0,0.34
+455,The Breadwinner,2017.0,PG-13,94,"Animation, Drama, Family",7.7,78.0,Nora Twomey,27253.0,0.31
+456,Une vie de chat,2010.0,PG,70,"Animation, Adventure, Comedy",6.9,63.0,Jean-Loup Felicioli,11632.0,0.31
+457,Avril et le monde truqué,2015.0,PG,105,"Animation, Adventure, Comedy",7.2,85.0,Christian Desmares,8169.0,0.29
+458,Ernest et Célestine,2012.0,PG,80,"Animation, Adventure, Comedy",7.8,86.0,Stéphane Aubier,21492.0,0.29
+459,Ma vie de Courgette,2016.0,PG-13,66,"Animation, Comedy, Drama",7.8,85.0,Claude Barras,27349.0,0.29
+460,The Son of Bigfoot,2017.0,PG,92,"Animation, Adventure, Comedy",6.1,,Jeremy Degruson,7680.0,0.29
+461,Saga of Tanya the Evil Movie,2019.0,Not Rated,115,"Animation, Action, Adventure",7.5,,Yutaka Uemura,1403.0,0.29
+462,Kimi no suizô o tabetai,2018.0,P13,109,"Animation, Drama, Family",8.0,,Shin'ichirô Ushijima,20741.0,0.28
+463,Mobile Suit Gundam Narrative,2018.0,P13,88,"Animation, Action, Drama",6.1,,Shun'ichi Yoshizawa,471.0,0.26
+464,My Dog Tulip,2009.0,,83,"Animation, Drama",6.9,80.0,Paul Fierlinger,1732.0,0.25
+465,Kingsglaive: Final Fantasy XV,2016.0,PG-13,110,"Animation, Action, Adventure",6.7,35.0,Takeshi Nozue,22649.0,0.23
+466,Mutafukaz,2017.0,R,94,"Animation, Action, Comedy",6.7,48.0,Shôjirô Nishimi,4901.0,0.23
+467,Sarusuberi: Miss Hokusai,2015.0,PG-13,93,"Animation, Biography, Drama",6.7,74.0,Keiichi Hara,3387.0,0.22
+468,Jiang Ziya,2020.0,,110,"Animation, Action, Adventure",6.5,,Teng Cheng,2082.0,0.21
+469,I Married a Strange Person!,1997.0,R,75,"Animation, Comedy, Drama",6.9,,Bill Plympton,2083.0,0.2
+470,La planète sauvage,1973.0,,72,"Animation, Sci-Fi",7.7,73.0,René Laloux,34568.0,0.19
+471,Snoopy Come Home,1972.0,,81,"Animation, Adventure, Comedy",7.4,66.0,Bill Melendez,4944.0,0.19
+472,Digimon Adventure tri. 1: Saikai,2015.0,U,96,"Animation, Action, Adventure",7.3,,Keitarô Motonaga,1836.0,0.19
+473,Spark: A Space Tail,2016.0,PG,91,"Animation, Action, Adventure",4.4,22.0,Aaron Woodley,1298.0,0.19
+474,Sennen joyû,2001.0,PG,87,"Animation, Drama, Fantasy",7.8,70.0,Satoshi Kon,30067.0,0.19
+475,Gekijou-ban Mahou Shoujo Madoka*Magica: [Zenpen] Hajimari no monogatari,2012.0,,130,"Animation, Drama, Fantasy",7.6,,Yukihiro Miyamoto,1639.0,0.18
+476,Chiisana eiyû: Kani to tamago to tômei ningen,2018.0,PG,53,"Animation, Adventure, Family",6.6,,Yoshiyuki Momose,2946.0,0.18
+477,Hagane no renkinjutsushi: Mirosu no seinaru hoshi,2011.0,U,110,"Animation, Action, Adventure",6.9,54.0,Kazuya Murata,5264.0,0.18
+478,Chicago 10,2007.0,R,110,"Documentary, Animation, History",7.4,69.0,Brett Morgen,1396.0,0.18
+479,Evangelion Shin Gekijôban: Kyu,2012.0,,96,"Animation, Action, Drama",6.9,45.0,Mahiro Maeda,17108.0,0.17
+480,Kono sekai no katasumi ni,2016.0,U,129,"Animation, Drama, Family",7.8,73.0,Sunao Katabuchi,11825.0,0.17
+481,Gekijôban Fairy Tail: Dragon Cry,2017.0,,85,"Animation, Action, Adventure",6.8,,Tatsuma Minamikawa,2334.0,0.17
+482,Panique au village,2009.0,U,75,"Animation, Adventure, Comedy",7.4,70.0,Stéphane Aubier,8493.0,0.17
+483,Hell and Back,2015.0,(Banned),86,"Animation, Adventure, Comedy",5.3,,Tom Gianas,5186.0,0.16
+484,Luis and His Friends from Outer Space,2018.0,PG,86,"Animation, Adventure, Comedy",6.0,46.0,Christoph Lauenstein,2776.0,0.15
+485,The Trumpet of the Swan,2001.0,,75,"Animation, Drama, Family",5.0,27.0,Terry L. Noss,1243.0,0.15
+486,Vampire Hunter D: Bloodlust,2000.0,R,103,"Animation, Action, Drama",7.6,62.0,Jack Fletcher,33787.0,0.15
+487,Shrek 2 Retold,2023.0,,92,Animation,,,Grant Duffrin,,0.15
+488,The Velveteen Rabbit,2009.0,,97,"Animation, Drama, Family",6.2,,Michael Landon Jr.,798.0,0.14
+489,Ekkusu,1996.0,R,100,"Animation, Action, Fantasy",6.1,,Rintarô,2766.0,0.14
+490,Gekijouban Psycho-Pass,2015.0,,113,"Animation, Action, Crime",7.1,,Naoyoshi Shiotani,4275.0,0.14
+491,The Congress,2013.0,,122,"Animation, Drama, Sci-Fi",6.4,63.0,Ari Folman,19435.0,0.14
+492,Waka okami wa shôgakusei!,2018.0,PG,94,"Animation, Adventure, Drama",7.0,70.0,Kitarô Kôsaka,2159.0,0.13
+493,Evangerion shin gekijôban: Ha,2009.0,,112,"Animation, Action, Drama",7.9,46.0,Masayuki,23412.0,0.13
+494,Is the Man Who Is Tall Happy?: An Animated Conversation with Noam Chomsky,2013.0,,88,"Documentary, Animation, Biography",7.1,76.0,Michel Gondry,3604.0,0.13
+495,Xiao zhu pei qi guo da nian,2019.0,G,81,"Animation, Family",3.6,,Dapeng Zhang,93.0,0.13
+496,O Menino e o Mundo,2013.0,PG,80,"Animation, Adventure, Family",7.5,80.0,Alê Abreu,7362.0,0.13
+497,Appurushîdo,2004.0,R,101,"Animation, Action, Adventure",6.9,40.0,Shinji Aramaki,18356.0,0.13
+498,Tôkyô goddofâzâzu,2003.0,PG-13,92,"Animation, Adventure, Comedy",7.8,74.0,Satoshi Kon,43580.0,0.13
+499,Happy Family,2017.0,PG,93,"Animation, Comedy, Family",4.8,,Holger Tappe,5202.0,0.13
+500,"Ruben Brandt, a gyujto",2018.0,R,96,"Animation, Action, Crime",7.4,75.0,Milorad Krstic,8038.0,0.12
+501,Otesánek,2000.0,,132,"Animation, Comedy, Drama",7.3,74.0,Jan Svankmajer,6676.0,0.12
+502,Rudolph the Red-Nosed Reindeer: The Movie,1998.0,,92,"Animation, Adventure, Family",5.8,,William R. Kowalchuk Jr.,2982.0,0.11
+503,Yoake tsugeru Rû no uta,2017.0,PG,112,"Animation, Adventure, Comedy",6.8,62.0,Masaaki Yuasa,2541.0,0.11
+504,Gekijouban Ano hi mita hana no namae wo bokutachi wa mada shiranai.,2013.0,,99,"Animation, Adventure, Drama",7.3,,Tatsuyuki Nagai,2620.0,0.11
+505,Evangelion Shin Gekijôban: Jo,2007.0,U,98,"Animation, Action, Drama",7.6,66.0,Masayuki,26038.0,0.11
+506,The Trouble with Terkel,2010.0,,87,"Animation, Comedy, Drama",7.2,,Thorbjørn Christoffersen,393.0,0.11
+507,Kanashimi no Beradonna,1973.0,,86,"Animation, Drama, Fantasy",7.3,70.0,Eiichi Yamamoto,7073.0,0.11
+508,Kaptein Sabeltann,2003.0,PG,75,"Animation, Family",5.5,,Stig Bergqvist,248.0,0.1
+509,Kôkaku Kidôtai Shin Gekijôban,2015.0,,100,"Animation, Action, Sci-Fi",6.6,,Kazuchika Kise,4019.0,0.1
+510,Jin-Rô,1999.0,,102,"Animation, Action, Drama",7.3,59.0,Hiroyuki Okiura,17847.0,0.09
+511,Tower,2016.0,,82,"Documentary, Animation, Crime",7.9,92.0,Keith Maitland,8173.0,0.09
+512,Eternal Spring,2022.0,,86,"Documentary, Animation",6.9,71.0,Jason Loftus,1630.0,0.09
+513,American: The Bill Hicks Story,2009.0,,102,"Documentary, Animation, Biography",7.7,55.0,Matt Harlock,4959.0,0.09
+514,Hao jile,2017.0,,77,"Animation, Comedy, Crime",6.5,77.0,Jian Liu,2144.0,0.08
+515,Bugs Bunny's 3rd Movie: 1001 Rabbit Tales,1982.0,,74,"Animation, Adventure, Comedy",7.0,,Friz Freleng,2140.0,0.08
+516,Samâ uôzu,2009.0,U,114,"Animation, Action, Adventure",7.4,63.0,Mamoru Hosoda,30867.0,0.08
+517,Peur(s) du noir,2007.0,,83,"Animation, Horror, Mystery",6.6,69.0,Blutch,3196.0,0.08
+518,Lói: Þú Flýgur Aldrei Einn,2018.0,PG,83,"Animation, Adventure, Family",5.4,,Ives Agemans,1178.0,0.08
+519,Teheran Tabu,2017.0,,96,"Animation, Drama",7.1,74.0,Ali Soozandeh,4784.0,0.07
+520,Gekijoban Hibike! Euphonium: Chikai no Finale,2019.0,,100,"Animation, Drama, Music",7.2,,Tatsuya Ishihara,438.0,0.07
+521,A Troll in Central Park,1994.0,,76,"Animation, Adventure, Comedy",5.3,,Don Bluth,7064.0,0.07
+522,The Secret Adventures of Tom Thumb,1993.0,,60,"Animation, Adventure, Drama",7.3,,Dave Borthwick,1590.0,0.07
+523,2012: Time for Change,2010.0,,85,"Documentary, Animation, News",7.0,,Joao G. Amorim,373.0,0.07
+524,An Oversimplification of Her Beauty,2012.0,,84,"Animation, Comedy, Drama",6.3,74.0,Terence Nance,794.0,0.07
+525,My Entire High School Sinking Into the Sea,2016.0,PG-13,75,"Animation, Action, Comedy",6.1,72.0,Dash Shaw,1220.0,0.07
+526,Na pude aneb Kdo má dneska narozeniny?,2009.0,PG,74,"Animation, Family, Fantasy",6.4,64.0,Jirí Barta,773.0,0.06
+527,Renaissance,2006.0,R,105,"Animation, Action, Sci-Fi",6.6,57.0,Christian Volckman,16289.0,0.06
+528,Gekijou-ban Mahou Shoujo Madoka*Magica: [Kouhen] Eien no monogatari,2012.0,,109,"Animation, Fantasy, Mystery",7.9,,Yukihiro Miyamoto,1598.0,0.06
+529,Trigun: Badlands Rumble,2010.0,P13,90,"Animation, Action, Adventure",7.4,,Satoshi Nishimura,5707.0,0.06
+530,Kirikou et la sorcière,1998.0,,71,"Animation, Adventure, Family",7.5,77.0,Michel Ocelot,10361.0,0.06
+531,Digimon Adventure tri. 4: Sôshitsu,2017.0,,82,"Animation, Action, Adventure",7.1,,Cristina Valenzuela,1016.0,0.06
+532,Gumby 1,1995.0,,90,"Animation, Adventure, Comedy",6.0,,Art Clokey,983.0,0.06
+533,Ôritsu uchûgun Oneamisu no tsubasa,1987.0,U,121,"Animation, Drama, Sci-Fi",7.2,,Hiroyuki Yamaga,5543.0,0.06
+534,Roadside Romeo,2008.0,,93,"Animation, Adventure, Comedy",4.8,,Jugal Hansraj,1601.0,0.06
+535,Digimon Adventure tri. 6: Bokura no mirai,2018.0,,98,"Animation, Action, Adventure",7.1,,Cherami Leigh,871.0,0.05
+536,Digimon Adventure tri. 5: Kyôsei,2017.0,,89,"Animation, Action, Adventure",6.8,,Keitarô Motonaga,898.0,0.05
+537,$9.99,2008.0,R,78,"Animation, Drama, Fantasy",6.7,68.0,Tatia Rosenthal,3427.0,0.05
+538,Babar: King of the Elephants,1999.0,,80,"Family, Animation",6.0,,Raymond Jafelice,573.0,0.05
+539,Gedo senki,2006.0,U,115,"Animation, Adventure, Fantasy",6.3,47.0,Gorô Miyazaki,42019.0,0.05
+540,Hirune-hime: Shiranai watashi no monogatari,2017.0,P13,111,"Animation, Adventure, Drama",6.3,69.0,Kenji Kamiyama,1492.0,0.05
+541,Sílení,2005.0,,118,"Animation, Comedy, Drama",7.2,63.0,Jan Svankmajer,3861.0,0.05
+542,Liyana,2017.0,,77,"Documentary, Animation",7.4,80.0,Aaron Kopp,375.0,0.04
+543,"Psiconautas, los niños olvidados",2015.0,,76,"Animation, Drama, Sci-Fi",7.2,76.0,Pedro Rivero,2911.0,0.04
+544,Moondance Alexander,2007.0,,94,"Animation, Drama, Family",6.2,,Michael Damian,1408.0,0.04
+545,Mind Game,2004.0,,103,"Animation, Adventure, Comedy",7.7,66.0,Masaaki Yuasa,10196.0,0.04
+546,Le grand méchant renard et autres contes...,2017.0,G,83,"Animation, Adventure, Comedy",7.4,73.0,Patrick Imbert,3454.0,0.04
+547,The Films of the Brothers Quay,,,78,"Documentary, Animation",,,Stephen Quay,,0.04
+548,Bai She: Yuan qi,2019.0,,99,"Animation, Action, Adventure",7.0,60.0,Amp Wong,4890.0,0.03
+549,Rakuen Tsuiho: Expelled from Paradise,2014.0,,104,"Animation, Action, Adventure",6.6,,Seiji Mizushima,1799.0,0.03
